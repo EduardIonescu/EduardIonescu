@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React/APIs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My Portfolio https://ionescueduard.netlify.app/
 
 <!---
 --->
